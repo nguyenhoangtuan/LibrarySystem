@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>bg1.jpg</file>
+        <file>pink-sakura.png</file>
+        <file>bg2.jpg</file>
+        <file>bg4.jpg</file>
+        <file>sakura.png</file>
+        <file>bg10.jpg</file>
+        <file>fallingSakura.gif</file>
+        <file>bg11.jpg</file>
+        <file>modelBook.png</file>
+        <file>default-avatar.jpg</file>
+        <file>bg20.jpg</file>
+        <file>bg21.jpg</file>
+        <file>bg23.jpg</file>
+        <file>bg24.jpg</file>
+        <file>bg30.jpg</file>
+        <file>chibi.png</file>
+        <file>blank_book.png</file>
+    </qresource>
+</RCC>
